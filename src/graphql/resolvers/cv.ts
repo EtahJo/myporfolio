@@ -2,8 +2,6 @@ import Project from "../../models/Project";
 import Experience from "../../models/Experience";
 import Education from "../../models/Education";
 import Profile from "../../models/Profile";
-import CV from "../../models/Cv";
-import _ from "lodash";
 
 module.exports={
     Query:{
